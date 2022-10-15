@@ -1,0 +1,39 @@
+body{
+    background-color: silver;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    text-align: center;
+    margin-top: 5%;
+    font-size: 60px;
+}
+.img{
+    width: 100%;
+    padding-top: 20px;
+    text-align: center;
+}
+ul{
+    padding-left: 550px;
+}
+.work{
+    text-align: center;
+}
+.name{
+    text-align: center;
+}
+.list{
+    font-weight: bold;
+}
+.grey-text{
+    font-weight: normal !important ;
+}
+.link{
+    text-align: center;
+    margin-top: 40px;
+    font-weight: bold;
+    padding-left: 170px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}

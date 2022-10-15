@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+*{
+    margin: 0%;
+    padding-top: 0%;
+    font-family: 'Poppins', sans-serif;
+
+}
+.container-1{
+
+    /* border: 2px solid black; */
+    margin: 5%;
+    
+    
+}.heading-top{
+    font-size: 150%;
+    text-decoration: underline;
+    padding-bottom: 1em;
+}
+a{
+    color: black;
+}
+.mahar{
+    text-decoration: underline;
+    font-weight: bolder;
+}
+.container-2{
+    /* border: 2px solid black; */
+    margin: 5%;
+
+}
